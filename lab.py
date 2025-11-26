@@ -1,2 +1,1 @@
-print("hello")
-print("Arya G. Sundaresh")
+print("this is python application")
